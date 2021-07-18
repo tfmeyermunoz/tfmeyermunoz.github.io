@@ -9,7 +9,6 @@ I found there everything I needed to construct this guide and I hope it will hel
 
 1. Create a Github profile.
 - Go to the Github homepage (www.github.com) and tap the "sign up" button.
-[img1]: ../github_1.jpg "Picture 1: Sign up interface"
-![Alt text][img1] 
+![Alt text](../github_1.jpg "Picture 1: Sign up interface") 
 
 2. Sign in with your new profile.
