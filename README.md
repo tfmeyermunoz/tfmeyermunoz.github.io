@@ -6,7 +6,7 @@ This is my first repository associated to the MIT Javascript course.
 
 ## Preview
 
-[![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)](https://startbootstrap.github.io/startbootstrap-freelancer/)
+[![Freelancer Preview](preview.png)](https://startbootstrap.github.io/startbootstrap-freelancer/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-freelancer/)**
 
